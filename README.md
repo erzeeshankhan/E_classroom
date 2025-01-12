@@ -5,8 +5,8 @@ An Online meeting platform with secure user authentication and numerous real tim
 Built with the latest Next.js and TypeScript, this project replicates Zoom, a widely used video conferencing tool. It enables users to securely log in, create meetings and access various meeting functionalities such as recording, screen sharing, and managing participants.
 
 Live Project Link:
-  https://eclassroomudict.netlify.app/meeting/4bebe81e-accb-4740-97dc-97b24d5fb4ce
-
+  [https://eclassroomudict.netlify.app/meeting/4bebe81e-accb-4740-97dc-97b24d5fb4ce
+](https://eclassroomudict.netlify.app/)
 ⚙️ Tech Stack
 Next.js
 TypeScript
