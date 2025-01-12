@@ -38,7 +38,7 @@ export default function RootLayout({
             colorInputText: '#fff',
           },
         }}
-        publishableKey="pk_your_publishable_key_here"
+        publishableKey="pk_test_d2lzZS1seW54LTIwLmNsZXJrLmFjY291bnRzLmRldiQ"
       >
         <body className={`${inter.className} bg-dark-2`}>
           <Toaster />
