@@ -28,7 +28,7 @@ export default function RootLayout({
         appearance={{
           layout: {
             socialButtonsVariant: 'iconButton',
-            logoImageUrl: '/icons/E-Classroom-logo.svg',
+            logoImageUrl: '/icons//icons/logo.svg',
           },
           variables: {
             colorText: '#fff',
